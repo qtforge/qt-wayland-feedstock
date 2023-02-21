@@ -1,1 +1,2 @@
 mesa-libEGL-devel
+mesa-libGL-devel

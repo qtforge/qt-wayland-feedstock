@@ -35,6 +35,7 @@ requirements:
     - xorg-libx11
     - xorg-libxext
     - xorg-libxrandr
+    - xorg-libxcomposite
     - wayland
     - fontconfig
     - freetype
