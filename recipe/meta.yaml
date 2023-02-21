@@ -46,6 +46,7 @@ requirements:
     - xorg-libxext
     # https://github.com/conda-forge/xorg-libx11-feedstock/pull/28
     - xorg-libx11
+    - xorg-libxcomposite
 
 test:
   commands:
