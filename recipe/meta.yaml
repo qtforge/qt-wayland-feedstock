@@ -1,5 +1,4 @@
 {% set version = "5.15.8" %}
-
 package:
   name: qt-wayland
   version: {{ version }}
@@ -82,4 +81,3 @@ extra:
     - hmaarrfk
     # Add all of qt-main?
     # - conda-forge/qt-main
-  feedstock-name: qt-wayland
